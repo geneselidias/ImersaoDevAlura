@@ -1,6 +1,6 @@
 # ImersaoDevAlura 🤿
 
-Projetos que desenvolvi como atividades e desafios durante dos 10 dias da Imersão Alura Desenvolvimento Front-End. O curso foi voltado para o aprofundamento na linguagem Javascript e com os comandos pude criar jogos interativos. Também construi um certificado interativo de conclusão da Imersão.
+Projetos que desenvolvi como atividades e desafios durante os 10 dias da Imersão Alura Desenvolvimento Front-End. O curso foi voltado para o aprofundamento na linguagem Javascript e com os comandos pude criar jogos interativos. Também construi um certificado interativo de conclusão da Imersão.
 
 
 Link dos projetos hospedados no Code Pen: 
